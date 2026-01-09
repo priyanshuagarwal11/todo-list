@@ -25,7 +25,7 @@ This app allows users to manage daily tasks and stores them in the browser using
 ---
 
 ## 📁 Project Structure
-todo-list/
+todo-list
 │
 ├── index.html
 ├── style.css
