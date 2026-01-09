@@ -32,8 +32,6 @@ todo-list/
 ├── script.js
 └── README.md
 
-yaml
-Copy code
 
 ---
 
